@@ -1,0 +1,31 @@
+.container-fluid{
+    background-color: rgb(209, 192, 39);
+}
+.body{
+ background-color: rgb(184, 226, 226);
+}
+.para{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-left: 50vh;
+}
+.places{
+    display: flex;
+  justify-content: space-around ;
+}
+img{
+    width: 250px;
+    height: 300px;
+}
+.box1.text{
+    position: absolute;
+    margin-top: 40px;
+}
+.box1{
+    box-shadow: 4px 3px 4px rgb(23, 22, 22);
+}
+.box2{
+    box-shadow: 4px 3px 4px rgb(23, 22, 22);
+}
+.box3{
+    box-shadow: 4px 3px 4px rgb(23, 22, 22);
+}
